@@ -6,4 +6,4 @@ Some text
 
 1. Open the browser
 
-hi
+hi hi
